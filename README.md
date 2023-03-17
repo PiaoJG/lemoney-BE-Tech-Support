@@ -6,16 +6,27 @@
 
 Features:
 • Progress bars so you can see how well you’re handling your money
+
 • Bar graph representing your total savings from current and previous months
+
 • Colour coded pie chart depicting the percentage of expenses spent on each category
+
 • Expenses page displaying all the things you have spent on, as well as how much you have left
+
 • Wishlist page designed to clearly show the disparity between needs and wants
+
 • Detailed page showing:
+
 • How many days you have left to save up for the item
+
 • How much you need to save per day
+
 • How much more money you have to acquire in total
+
 • Choose to either set aside money for the day or just buy the item
+
 • Budget page showing the difference between the total amount of money you’ve spent on a certain category and the actual budget you have set for said category
+
 • Slick dark mode for ultimate eye comfort
 
 Getting Support:
